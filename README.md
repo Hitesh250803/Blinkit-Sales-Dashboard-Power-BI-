@@ -1,6 +1,6 @@
-**Blinkit Grocery Sales Dashboard (Power BI)**
+
 🧩 Project Title
-Blinkit Grocery Sales Dashboard
+Blinkit Grocery Sales Dashboard (Power BI)
 
 🛠 Tools Used
 Power BI Desktop
